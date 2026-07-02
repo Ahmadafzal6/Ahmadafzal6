@@ -98,15 +98,6 @@ Conversational chatbot built with genuine agentic reasoning.
 
 <div align="center">
 
-### 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmadafzal6&show_icons=true&hide_border=true&bg_color=141414&title_color=D4AF37&icon_color=D4AF37&text_color=e0e0e0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadafzal6&layout=compact&hide_border=true&bg_color=141414&title_color=D4AF37&text_color=e0e0e0" width="38%"/>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:141414&height=120&section=footer"/>
 
 <sub>Open to opportunities in AI/ML engineering and agentic systems development.</sub>
 
