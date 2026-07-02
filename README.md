@@ -1,71 +1,113 @@
 <div align="center">
 
-# Muhammad Ahmad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:1a1a2e,100:16213e&height=230&section=header&text=MUHAMMAD%20AHMAD&fontSize=46&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=MACHINE%20LEARNING%20INTERN%20%40%20FLYRANK%20AI&descAlignY=58&descSize=15&descColor=D4AF37&fontVertical=false"/>
 
-**Machine Learning Intern @ FlyRank AI**
-BS Information Technology, Bahria University Lahore · Lahore, Pakistan
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=18&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=BS+Information+Technology+%C2%B7+Bahria+University+Lahore;Building+Agentic+AI+Systems+%C2%B7+LangChain+%C2%B7+CrewAI"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-419385327)
-[![Gmail](https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail&logoColor=white)](mailto:ahmadxaab@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/muhammad-ahmad-419385327)
+[![Gmail](https://img.shields.io/badge/-Email-141414?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:ahmadxaab@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-141414?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Ahmadafzal6)
 
 </div>
 
-<br/>
-
-## About
-
-Machine Learning Intern at FlyRank AI, currently pursuing a BS in Information Technology at Bahria University Lahore. Focused on building practical AI and agentic systems — from full-stack AI applications to automation pipelines — while exploring frameworks like LangChain, CrewAI, and AutoGen.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:141414&height=2&width=100%25"/>
 
 <br/>
 
-## Projects
+### 𝐀𝐁𝐎𝐔𝐓
+
+Machine Learning Intern at **FlyRank AI**, pursuing a BS in Information Technology at Bahria University Lahore. I build practical AI and agentic systems — from full-stack AI applications to automation pipelines — with a growing focus on frameworks like LangChain, CrewAI, and AutoGen.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:141414&height=2&width=100%25"/>
+
+<br/>
+
+### 𝐒𝐄𝐋𝐄𝐂𝐓𝐄𝐃 𝐖𝐎𝐑𝐊
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Prisma AI**
-Full-stack AI chat application with multi-model support, streaming responses, and secure authentication.
-`Next.js` `Groq API` `Supabase`
+Full-stack AI chat application — multi-model support, streaming responses, secure authentication.
+
+<sub>`Next.js` · `Groq API` · `Supabase`</sub>
+
+</td>
+<td width="50%" valign="top">
 
 **Deep Research Agent**
-An autonomous agent that gathers, synthesizes, and reports on complex research topics.
-`Python` `AI Agents`
+Autonomous agent that gathers, synthesizes, and reports on complex research topics.
+
+<sub>`Python` · `AI Agents`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **n8n Workflow Automation**
-Automation pipelines connecting APIs and AI models into practical, real-world workflows.
-`n8n` `APIs`
+Automation pipelines connecting APIs and AI models into real-world workflows.
+
+<sub>`n8n` · `APIs`</sub>
+
+</td>
+<td width="50%" valign="top">
 
 **Chainlit AI Agent Chatbot**
-A conversational chatbot built with genuine agentic reasoning capabilities.
-`Python` `Chainlit`
+Conversational chatbot built with genuine agentic reasoning.
+
+<sub>`Python` · `Chainlit`</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:141414&height=2&width=100%25"/>
 
 <br/>
 
-## Technical Skills
+### 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
 
-| Category | Technologies |
-|---|---|
-| Languages | Python, C++, JavaScript, PHP |
-| AI / ML | LangChain, CrewAI, AutoGen, Groq API |
-| Web Development | Next.js, Node.js, HTML/CSS, Supabase |
-| Automation | n8n |
-
-<br/>
-
-## Certifications
-
-IBM · Anthropic · Cisco · PIAIC (Python)
+<table>
+<tr><td><b>Languages</b></td><td>Python · C++ · JavaScript · PHP</td></tr>
+<tr><td><b>AI / ML</b></td><td>LangChain · CrewAI · AutoGen · Groq API</td></tr>
+<tr><td><b>Web</b></td><td>Next.js · Node.js · HTML/CSS · Supabase</td></tr>
+<tr><td><b>Automation</b></td><td>n8n</td></tr>
+</table>
 
 <br/>
 
-## GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:141414&height=2&width=100%25"/>
+
+<br/>
+
+### 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
+
+<sub>IBM  ·  Anthropic  ·  Cisco  ·  PIAIC (Python)</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:141414&height=2&width=100%25"/>
+
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmadafzal6&show_icons=true&hide_border=true&theme=default&title_color=000000&icon_color=333333&text_color=333333&bg_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadafzal6&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" width="40%"/>
-</div>
+
+### 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmadafzal6&show_icons=true&hide_border=true&bg_color=141414&title_color=D4AF37&icon_color=D4AF37&text_color=e0e0e0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadafzal6&layout=compact&hide_border=true&bg_color=141414&title_color=D4AF37&text_color=e0e0e0" width="38%"/>
 
 <br/>
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:141414&height=120&section=footer"/>
 
-*Open to opportunities in AI/ML engineering and agentic systems development.*
+<sub>Open to opportunities in AI/ML engineering and agentic systems development.</sub>
 
 </div>
