@@ -1,71 +1,71 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:0A0A0A&height=200&section=header&text=Muhammad%20Ahmad&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Intern%20%40%20FlyRank%20AI&descAlignY=58&descSize=16&descColor=39FF14"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=550&lines=BS+Information+Technology+%C2%B7+Bahria+University;Exploring+LangChain+%C2%B7+CrewAI+%C2%B7+AutoGen"/>
-</p>
+# Muhammad Ahmad
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmad-419385327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=39FF14"/></a>
-  <a href="mailto:ahmadxaab@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=flat-square&logo=gmail&logoColor=39FF14"/></a>
-  <a href="https://github.com/Ahmadafzal6" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=39FF14"/></a>
-</p>
+**Machine Learning Intern @ FlyRank AI**
+BS Information Technology, Bahria University Lahore · Lahore, Pakistan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahmad-419385327)
+[![Gmail](https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail&logoColor=white)](mailto:ahmadxaab@gmail.com)
+
+</div>
 
 <br/>
 
 ## About
 
-- 🎓 BS Information Technology (2024–2028) — Bahria University Lahore
-- 🤖 Machine Learning Intern @ **FlyRank AI**
-- 🔭 Learning agentic AI frameworks: LangChain, CrewAI, AutoGen
-- 📍 Lahore, Pakistan
-
-<br/>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/HTML/CSS-0A0A0A?style=flat-square&logo=html5&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/n8n-0A0A0A?style=flat-square&logo=n8n&logoColor=39FF14"/>
-</p>
+Machine Learning Intern at FlyRank AI, currently pursuing a BS in Information Technology at Bahria University Lahore. Focused on building practical AI and agentic systems — from full-stack AI applications to automation pipelines — while exploring frameworks like LangChain, CrewAI, and AutoGen.
 
 <br/>
 
 ## Projects
 
-**🤖 Prisma AI** — AI chat app with multi-model support and streaming responses
+**Prisma AI**
+Full-stack AI chat application with multi-model support, streaming responses, and secure authentication.
 `Next.js` `Groq API` `Supabase`
 
-**🔍 Deep Research Agent** — Autonomous agent that researches and synthesizes topics
+**Deep Research Agent**
+An autonomous agent that gathers, synthesizes, and reports on complex research topics.
 `Python` `AI Agents`
 
-**⚙️ n8n Workflow Automation** — Automation pipelines connecting APIs and AI models
+**n8n Workflow Automation**
+Automation pipelines connecting APIs and AI models into practical, real-world workflows.
 `n8n` `APIs`
 
-**💬 Chainlit AI Agent Chatbot** — Conversational chatbot with agentic reasoning
+**Chainlit AI Agent Chatbot**
+A conversational chatbot built with genuine agentic reasoning capabilities.
 `Python` `Chainlit`
+
+<br/>
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, C++, JavaScript, PHP |
+| AI / ML | LangChain, CrewAI, AutoGen, Groq API |
+| Web Development | Next.js, Node.js, HTML/CSS, Supabase |
+| Automation | n8n |
 
 <br/>
 
 ## Certifications
 
-`IBM` `Anthropic` `Cisco` `PIAIC`
+IBM · Anthropic · Cisco · PIAIC (Python)
 
 <br/>
 
-## Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadafzal6&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=39FF14&icon_color=39FF14&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadafzal6&hide_border=true&background=0A0A0A&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmadafzal6&show_icons=true&hide_border=true&theme=default&title_color=000000&icon_color=333333&text_color=333333&bg_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadafzal6&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" width="40%"/>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:0A0A0A&height=3&width=100%25"/>
-</p>
+<br/>
+
+<div align="center">
+
+*Open to opportunities in AI/ML engineering and agentic systems development.*
+
+</div>
